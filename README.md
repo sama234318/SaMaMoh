@@ -2,7 +2,7 @@
 
 A fresh streaming-discovery concept with an independent navy and mint identity, cinematic photographic artwork and original fictional stories.
 
-Live site: https://234308-hash.github.io/SaMaMoh/
+Live site: https://sama234318.github.io/SaMaMoh/
 
 ![SaMaMoh desktop preview](docs/SaMaMoh_preview.jpg)
 
