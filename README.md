@@ -2,6 +2,10 @@
 
 A fresh streaming-discovery concept with an independent navy and mint identity, cinematic photographic artwork and original fictional stories.
 
+Live site: https://samamoh.vercel.app/
+
+![SaMaMoh desktop preview](docs/SaMaMoh_preview.jpg)
+
 ## Run
 
 No dependencies are needed. Serve `dist/` with any static web server. `npm run check` checks JavaScript syntax; `npm run build` verifies required deployment files. Vercel is configured to serve `dist/`.
