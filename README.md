@@ -2,13 +2,15 @@
 
 A fresh streaming-discovery concept with an independent navy and mint identity, cinematic photographic artwork and original fictional stories.
 
-Live site: https://samamoh.vercel.app/
+Live site: https://234308-hash.github.io/SaMaMoh/
 
 ![SaMaMoh desktop preview](docs/SaMaMoh_preview.jpg)
 
 ## Run
 
-No dependencies are needed. Serve `dist/` with any static web server. `npm run check` checks JavaScript syntax; `npm run build` verifies required deployment files. Vercel is configured to serve `dist/`.
+No dependencies are needed. Serve `dist/` with any static web server. `npm run check` checks JavaScript syntax. `npm run build` verifies required files and mirrors the static site into `docs/`, the GitHub Pages publishing directory.
+
+GitHub Pages publishes from the `main` branch, `/docs` folder. Use relative asset paths so the site works under the `/SaMaMoh/` project URL. After changing `dist/`, run the build and commit both source and updated `docs/` output.
 
 ## Features
 
