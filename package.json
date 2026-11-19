@@ -1,0 +1,1 @@
+{"name":"samamoh","version":"1.0.0","private":true,"description":"A new world of stories. An independent streaming experience concept.","scripts":{"build":"node scripts/build.mjs","check":"node --check dist/app.js","dev":""}}

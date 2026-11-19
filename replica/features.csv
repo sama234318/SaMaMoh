@@ -1,0 +1,11 @@
+feature,area,priority,original,clone,notes
+Streaming landing,home,must,yes,yes,Independent design and copy
+Membership entry,home,must,yes,yes,Explicit local demo profile
+FAQs,home,must,yes,yes,Native accessible details
+Device showcase,home,should,yes,yes,Original CSS device mockups
+Sign in,account,must,yes,partial,Local demo profile without passwords
+Film catalogue,discovery,should,unknown,yes,Eight fictional titles
+Search and genres,discovery,should,unknown,yes,Local catalogue filtering
+Watchlist,discovery,should,unknown,yes,Browser persistence
+Playback,player,should,unknown,yes,Credited open-film samples
+Paid subscription,billing,could,unknown,skip,No billing scope or integration

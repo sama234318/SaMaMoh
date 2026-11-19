@@ -1,0 +1,5 @@
+node_modules/
+.vercel/
+.openai/
+replica/clone-screens/
+.DS_Store
